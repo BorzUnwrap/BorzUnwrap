@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS Dev.
 - 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on cool projects.
-- 📫 Telegram: @harsovu
+- 📫 Telegram: @zanlabengine
 
 <!---
 ZanLab/ZanLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
